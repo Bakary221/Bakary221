@@ -19,7 +19,7 @@
 
 | Langages | Frameworks / Outils |
 |---------|----------------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,java" width="200"/> | <img src="https://skillicons.dev/icons?i=vscode,git,github" width="200"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,java,c,cplusplus" width="200"/> | <img src="https://skillicons.dev/icons?i=vscode,git,github" width="200"/> |
 
 ---
 
