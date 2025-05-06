@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Bakary+Diassy+👨🏾;I+am+a+Web/Mobile+Developer+📱💻;I+am+passionate+about+coding+❤️;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Technology+inspires+me+🚀;I+enjoy+helping+others+🎓;I+am+curious+and+creative+🧠)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
-<img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
+<img align="right" alt ="coding" width="600" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
 
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Bakary Diassy**
@@ -81,12 +81,12 @@ Always **Curious** and **Creative** 🧠
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
+      <a href="https://www.php.net/docs.php">
         <img height="48px" width="48px" alt="Php Icon" src="https://skillicons.dev/icons?i=php"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://flutter.dev/">
+      <a href="https://www.mysql.org/">
         <img height="48px" width="48px" alt="sql Icon" src="https://skillicons.dev/icons?i=mysql"/>
       </a>
     </td>
