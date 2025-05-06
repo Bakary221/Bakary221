@@ -50,9 +50,9 @@
 
 ## 🤝 Me contacter
 
-📫 **Email** : [bakarydiassy28@gmail.com](mailto:bakarydiassy28@gmail.com)  
-💼 **LinkedIn** : [linkedin.com/in/bakarydiassy](https://linkedin.com/in/bakary221)  
-🌐 **Portfolio** (bientôt)
+<p>📫 <strong>Email</strong> : <a href="mailto:bakarydiassy28@gmail.com">bakarydiassy28@gmail.com</a></p>
+<p>💼 <strong>LinkedIn</strong> : <a href="https://www.linkedin.com/in/bakary-diassy-34b947274/" target="_blank">https://linkedin.com/in/bakary221</a></p>
+<p>🌐 <strong>Portfolio</strong> : (bientôt)</p>
 
 ---
 
