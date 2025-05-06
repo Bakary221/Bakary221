@@ -1,100 +1,59 @@
-<!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Bakary+Diassy+👨🏾;I+am+a+Web/Mobile+Developer+📱💻;I+am+passionate+about+coding+❤️;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Technology+inspires+me+🚀;I+enjoy+helping+others+🎓;I+am+curious+and+creative+🧠)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World+👋;I'm+Bakary+Diassy+%F0%9F%91%A8%F0%9F%9F%BE%E2%80%8D%F0%9F%92%BB;Fullstack+Web%2FMobile+Developer+%F0%9F%93%B1%F0%9F%92%BB;Passionate+about+Crafting+Code+%E2%9D%A4%EF%B8%8F;Lifelong+Learner+and+Open-Source+Lover+%F0%9F%93%96;Curious%2C+Creative+%26+Community-Driven+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-<!-- ILLUSTRATION'S IMAGE -->
-<img align="right" alt ="coding" width="600" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
+<!-- CODING GIF -->
 
-<!-- DESCRIPTION -->
-👨🏾‍💻 **Bakary Diassy**
+---
 
-Web/Mobile **Developer** 📱💻
+## 🧙🏾‍♂️ About Me — *"L'alchimiste du code"*
 
-Passionate about **coding** ❤️
+✨ Je m'appelle **Bakary Diassy**, étudiant passionné et développeur fullstack.  
+🚀 Ma mission : transformer des idées en applications utiles et inspirantes.  
+🧩 J’aime résoudre des problèmes, partager mon savoir et apprendre chaque jour.  
+🌱 Je crois que la technologie peut **changer le monde**, surtout en Afrique.  
+🎯 Mon objectif : contribuer à l’**open-source**, lancer des **projets innovants** et impacter positivement.
 
-Love sharing **knowledge** 📚
+---
 
-Enthusiastic **Problem Solver** 🧩
+## 🛠️ Technologies & Outils
 
-Lifelong **Learner** 📖
+| Langages | Frameworks / Outils |
+|---------|----------------------|
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,java" width="200"/> | <img src="https://skillicons.dev/icons?i=vscode,git,github" width="200"/> |
 
-Future Open-Source **Contributor** 🌐
+---
 
-Technology **Inspires** me 🚀
+## 📚 Mes Valeurs
 
-Enjoy **Helping Others** 🎓
+- 💡 **Créativité** : Toujours en quête de nouvelles idées à expérimenter.
+- ❤️ **Passion** : Le code est mon art et mon moyen d'expression.
+- 🎓 **Partage** : J’adore transmettre ce que j’apprends à d'autres.
+- 🔁 **Persévérance** : J’apprends de mes échecs et je progresse chaque jour.
+- 🤝 **Communauté** : La tech est meilleure quand elle est collaborative.
 
-Always **Curious** and **Creative** 🧠
+---
 
-<!-- LANGUAGE & TOOLS -->
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <tr>
-    <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
-    <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="VS Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://github.com/">
-        <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://flutter.dev/">
-        <img height="48px" width="48px" alt="Flutter Icon" src="https://skillicons.dev/icons?i=flutter"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.php.net/docs.php">
-        <img height="48px" width="48px" alt="Php Icon" src="https://skillicons.dev/icons?i=php"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.mysql.org/">
-        <img height="48px" width="48px" alt="sql Icon" src="https://skillicons.dev/icons?i=mysql"/>
-      </a>
-    </td>
-  </tr>
-</table>
+## 🔭 Projets en cours
 
-<!-- QUOTE -->
-<p align="right">
-    <q>Code avec passion, partage avec cœur, apprend sans fin</q> <br> 
-    - <b>Bakary Diassy</b> aka <i>l'alchimiste du code</i>
-</p>
+- 👨🏾‍⚕️ *Plateforme de prise de rendez-vous médicaux* (startup en santé)
+- 📱 *App de transfert d’argent Kodoo* (Flutter/Firebase)
+- 🌐 *Site d’e-commerce multirôle* (admin, boutique, livreur)
+
+---
+
+## 📌 Citation préférée
+
+> _« Code avec passion, partage avec cœur, apprend sans fin. »_  
+> — **Bakary Diassy**, alias *L'alchimiste du code* 🧙🏾‍♂️
+
+---
+
+## 🤝 Me contacter
+
+📫 **Email** : bakarydiassy.dev@gmail.com  
+💼 **LinkedIn** : [linkedin.com/in/bakarydiassy](https://linkedin.com/in/bakarydiassy)  
+🌐 **Portfolio** (bientôt)
+
+---
+
+✨ *Merci d’être passé sur mon profil. Que l’alchimie du code t’accompagne !*
