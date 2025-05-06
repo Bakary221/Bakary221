@@ -50,7 +50,7 @@
 
 ## 🤝 Me contacter
 
-📫 **Email** : bakarydiassy.dev@gmail.com  
+📫 **Email** : bakarydiassy28gmail.com  
 💼 **LinkedIn** : [linkedin.com/in/bakarydiassy](https://linkedin.com/in/bakarydiassy)  
 🌐 **Portfolio** (bientôt)
 
