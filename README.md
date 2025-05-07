@@ -19,7 +19,7 @@
 
 | Langages | Frameworks / Outils |
 |---------|----------------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,java,c,cplusplus" width="200"/> | <img src="https://skillicons.dev/icons?i=vscode,git,github" width="200"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,python,mysql,flutter,java," width="200"/> | <img src="https://skillicons.dev/icons?i=vscode,git,github" width="200"/> |
 
 ---
 
@@ -44,7 +44,7 @@
 ## 📌 Citation préférée
 
 > _« Code avec passion, partage avec cœur, apprend sans fin. »_  
-> — **Bakary Diassy**, alias *L'alchimiste du code* 🧙🏾‍♂️
+> — **Bakary Diassy** —, alias *L'alchimiste du code* 🧙🏾‍♂️
 
 ---
 
